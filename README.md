@@ -1,5 +1,7 @@
 # 搜云库技术团队
 
+[https://team.souyunku.com](https://team.souyunku.com)
+
 本站使用：[Docsite](https://github.com/txd-team/docsite) 构建 
 
 Docsite 是一款开源站点搭建工具，依据其提供的功能，能够快速搭建一个开源站点。
