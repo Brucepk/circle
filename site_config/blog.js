@@ -24,6 +24,13 @@ export default {
         postsTitle: '所有文章',
         list: [
             {
+                title: '向军老师Vue开发宝典',
+                author: '鹏磊',
+                dateStr: '2018-10-11',
+                desc: '向军老师Vue开发宝典',
+                link: '/zh-cn/blog/02vue.html',
+            },
+            {
                 title: '还没用上 JDK 11吧，JDK 12 早期访问构建版使用',
                 author: '鹏磊',
                 dateStr: '2018-09-27',
