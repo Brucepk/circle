@@ -211,18 +211,18 @@ export default {
             title: '事件 & 新闻',
             list: [
                 {
-                    img: '/img/blog/2018/jdk/jdk12.png',
-                    title: 'JDK 12 早期访问构建版使用',
-                    content: 'JDK 12',
-                    dateStr: '2018-09-27',
-                    link: '/zh-cn/blog/02jdk12.html',
-                },
-                {
                     img: '/img/blog/2018/01/1.png',
                     title: '中国大陆知识共享协议',
                     content: '知识共享协议',
                     dateStr: '2018-09-26',
                     link: '/zh-cn/blog/01licenses_exp.html',
+                },
+                {
+                    img: '/img/brhtqqzh.jpeg',
+                    title: 'this is the title',
+                    content: 'this is the content',
+                    dateStr: 'May 12nd，2018',
+                    link: '',
                 },
                 {
                     img: '/img/brhtqqzh.jpeg',

@@ -6,19 +6,6 @@ description: 向军老师Vue开发宝典,vue教程,vue视频
 
 ## 向军老师Vue开发宝典,vue教程,vue视频
 
-## 百度云盘地址
-
-链接: [https://pan.baidu.com/s/1u0EJ7xQ-pYQy5RctV48khQ ](https://pan.baidu.com/s/1u0EJ7xQ-pYQy5RctV48khQ)
-
-## <span style="color: #FF0000;">视频提取码</span>
-
-- 关注微信公众号：「搜云库」
-- 后台回复关键字：<span style="color: #FF0000;">"1950"</span>  获取提取码
-
-![][1]
-
-[1]: https://team.souyunku.com/img/quick_start.png
-
 ## 课程目录
 
 - 1 Vue开发宝典-Vue.js介绍.mp4
@@ -196,19 +183,17 @@ description: 向军老师Vue开发宝典,vue教程,vue视频
 
 ## 百度云盘地址
 
-链接: [https://pan.baidu.com/s/1u0EJ7xQ-pYQy5RctV48khQ ](https://pan.baidu.com/s/1u0EJ7xQ-pYQy5RctV48khQ)
+链接: [https://pan.baidu.com/s/1u0EJ7xQ-pYQy5RctV48khQ ](https://pan.baidu.com/s/1u0EJ7xQ-pYQy5RctV48khQ )
 
-## <span style="color: #FF0000;">视频提取码</span>
+## 视频提取码
 
-- 关注微信公众号：「搜云库」
-- 后台回复关键字：<span style="color: #FF0000;">"1950"</span>  获取提取码
+#### 关注微信公众号：回复关键字 "1" 获取
 
 ![][1]
 
 [1]: https://team.souyunku.com/img/quick_start.png
 
 
-
 ## 免责声明
 
-网站所有作品均由网上搜集共同更新，仅供读者预览及学习交流使用，下载后请24小时内删除，如果喜欢请购买正版资源!原作者如果认为本站侵犯了您的版权,请QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=75997533&menu=yes" class="qq">75997533</a> 告知,我们会立即删除!
+网站所有作品均由网上搜集共同更新，仅供读者预览及学习交流使用，下载后请24小时内删除，如果喜欢请购买正版资源!原作者如果认为本站侵犯了您的版权,请QQ 75997533 告知,我们会立即删除!
