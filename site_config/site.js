@@ -56,6 +56,11 @@ export default {
                     text: 'This site is built using Docsite',
                     link: 'https://docsite.js.org/en-us/docs/installation.html',
                 },
+                {
+                    key: 'Github',
+                    text: 'Github',
+                    link: 'https://github.com/souyunkutech',
+                },
             ],
         },
         copyright: 'Copyright © 2018 搜云库技术团队 All rights reserved.',
@@ -81,6 +86,11 @@ export default {
                 key: 'community',
                 text: '社区',
                 link: '/zh-cn/community/index.html',
+            },
+            {
+                key: 'Github',
+                text: 'Github',
+                link: 'https://github.com/souyunkutech',
             },
         ],
         disclaimer: {

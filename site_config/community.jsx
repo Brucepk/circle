@@ -42,14 +42,14 @@ export default {
                 {
                     img: '/img/github.png',
                     imgHover: '/img/github_hover.png',
-                    title: 'github',
+                    title: 'Github',
                     link: 'https://github.com/souyunkutech',
                 },
                 {
                     img: '/img/weixin.png',
                     imgHover: '/img/weixin_hover.png',
                     title: 'WeChat',
-                    link: ''
+                    link: 'https://team.souyunku.com/img/quick_start.png'
                 },
                 {
                     img: '/img/weibo.png',
@@ -246,14 +246,14 @@ export default {
                 {
                     img: '/img/github.png',
                     imgHover: '/img/github_hover.png',
-                    title: 'github',
+                    title: 'Github',
                     link: 'https://github.com/souyunkutech',
                 },
                 {
                     img: '/img/weixin.png',
                     imgHover: '/img/weixin_hover.png',
                     title: '微信',
-                    link: ''
+                    link: 'https://team.souyunku.com/img/quick_start.png'
                 },
                 {
                     img: '/img/weibo.png',
