@@ -13,7 +13,7 @@ description: 向军老师Vue开发宝典,vue教程,vue视频
 ## <span style="color: #FF0000;">视频提取码</span>
 
 - 关注微信公众号：「搜云库」
-- 后台回复关键字：<span style="color: #FF0000;">"1950"</span>  获取提取码
+- 后台回复关键字：<span style="color: #FF0000;">"11950"</span>  获取提取码
 
 ![][1]
 
@@ -201,7 +201,7 @@ description: 向军老师Vue开发宝典,vue教程,vue视频
 ## <span style="color: #FF0000;">视频提取码</span>
 
 - 关注微信公众号：「搜云库」
-- 后台回复关键字：<span style="color: #FF0000;">"1950"</span>  获取提取码
+- 后台回复关键字：<span style="color: #FF0000;">"11950"</span>  获取提取码
 
 ![][1]
 
