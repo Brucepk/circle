@@ -27,10 +27,15 @@ export default {
                 text: 'COMMUNITY',
                 link: '/en-us/community/index.html',
             },
+            {
+                key: 'Github',
+                text: 'Github',
+                link: 'https://github.com/souyunkutech',
+            },
         ],
         disclaimer: {
             title: 'Disclaimer',
-            content: 'All works on the website are updated by online collection, only for readers to preview and learn to use. Please download within 24 hours after downloading. If you like, please purchase genuine resources! If the original author believes that this site infringes your copyright, please inform QQ. We will delete it immediately!',
+            content: 'All works on the website are updated by online collection, only for readers to preview and learn to use. Please download within 24 hours after downloading. If you like, please purchase genuine resources! If the original author believes that this site infringes your copyright, please inform QQ 75997533. We will delete it immediately!',
         },
         documentation: {
             title: 'Documentation',
@@ -55,11 +60,6 @@ export default {
                 {
                     text: 'This site is built using Docsite',
                     link: 'https://docsite.js.org/en-us/docs/installation.html',
-                },
-                {
-                    key: 'Github',
-                    text: 'Github',
-                    link: 'https://github.com/souyunkutech',
                 },
             ],
         },
@@ -95,7 +95,7 @@ export default {
         ],
         disclaimer: {
             title: '免责声明',
-            content: '网站所有作品均由网上搜集共同更新，仅供读者预览及学习交流使用，下载后请24小时内删除，如果喜欢请购买正版资源!原作者如果认为本站侵犯了您的版权,请QQ告知,我们会立即删除!',
+            content: '网站所有作品均由网上搜集共同更新，仅供读者预览及学习交流使用，下载后请24小时内删除，如果喜欢请购买正版资源!原作者如果认为本站侵犯了您的版权,请QQ 75997533告知,我们会立即删除!',
         },
         documentation: {
             title: '文档',

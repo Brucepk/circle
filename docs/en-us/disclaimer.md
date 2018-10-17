@@ -32,3 +32,5 @@ You may choose not to use it, but if you download and use it, your use will be d
 
 10. Please delete all resources of this site within 24 hours after downloading. If you like, please purchase genuine resources!
 
+Contact ：QQ <a href="http://wpa.qq.com/msgrd?v=3&uin=75997533&menu=yes" class="qq">75997533</a> Inform, we will delete it immediately!
+
