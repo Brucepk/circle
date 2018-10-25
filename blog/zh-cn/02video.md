@@ -10,7 +10,7 @@ description: 1024 程序员节送 1500G 架构师视频，够不够
 
 - 关注微信公众号：「搜云库」
 - 后台回复关键字：<span style="color: #FF0000;">"1024"</span> 加站长微信好友
-- 把网盘视频链接发给站长微信，即可获取 <span style="color: #FF0000;">"视频提取码"</span>
+- 把网盘视频链接发给站长微信(注意是完全匹配，不能有空格)，即可获取 <span style="color: #FF0000;">"视频提取码"</span>
 
 ![][1]
 
@@ -614,7 +614,7 @@ https://pan.baidu.com/s/1u-rs2NfSQX84TpHX5dQFKA
 
 - 关注微信公众号：「搜云库」
 - 后台回复关键字：<span style="color: #FF0000;">"1024"</span> 加站长微信好友
-- 把网盘视频链接发给站长微信，即可获取 <span style="color: #FF0000;">"视频提取码"</span>
+- 把网盘视频链接发给站长微信(注意是完全匹配，不能有空格)，即可获取 <span style="color: #FF0000;">"视频提取码"</span>
 
 ![][1]
 
