@@ -343,7 +343,7 @@ https://pan.baidu.com/s/1Xbw_qaxUuSWriYzsqMFXBw
 https://pan.baidu.com/s/1N0PACr_sWALVB6nN5B-lHw
 
 - Spark 4.Spark SQL从零起步彻底精通彻底实战(55-73讲)
-https://pan.baidu.com/s/1EtnFWTSMxJK_42OBxz5f-g
+https://pan.baidu.com/s/1WBF3elSGpky30MKVrehGRw
 
 - Spark 5.Spark Streaming专家之路(82-113讲)
 https://pan.baidu.com/s/1cTDUIBo8s2XBTAJLhI7s3w
@@ -622,4 +622,4 @@ https://pan.baidu.com/s/1u-rs2NfSQX84TpHX5dQFKA
 
 ## 免责声明
 
-网站所有作品均由网上搜集共同更新，仅供读者预览及学习交流使用，下载后请24小时内删除，如果喜欢请购买正版资源!原作者如果认为本站侵犯了您的版权,请QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=75997533&menu=yes" class="qq">75997533</a> 告知,我们会立即删除!</pre>
+网站所有作品均由网上搜集共同更新，仅供读者预览及学习交流使用，下载后请24小时内删除，如果喜欢请购买正版资源!原作者如果认为本站侵犯了您的版权,请QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=75997533&menu=yes" class="qq">75997533</a> 告知,我们会立即删除!
