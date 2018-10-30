@@ -201,9 +201,6 @@ https://pan.baidu.com/s/1htEzePbl5ZFM_8MHnXycjQ
 - Mybatis 视频
 https://pan.baidu.com/s/1yMkGh1bHXpjyWviMWVIUyQ
 
-- MySQL DBA及Linux企业集群实战工程师
-https://pan.baidu.com/s/1AkNd3NyTQEFL3hYBs8ziBg
-
 - MySQL高级
 https://pan.baidu.com/s/1V6X2_ZtlJ3iPGrRjZ19bzQ
 
