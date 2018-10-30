@@ -18,6 +18,9 @@ description: 1024 程序员节送 1500G 架构师视频，够不够
 
 ## 视频目录
 
+- Apache 流框架 Flink 视频
+https://pan.baidu.com/s/1MqfMRfB61MKfAd-Mm0F0hw 
+
 - Activiti 6.0工作流引擎深度解析与实战
 https://pan.baidu.com/s/1PHbvagiIW8IkrH2JYvSxFg 
 
