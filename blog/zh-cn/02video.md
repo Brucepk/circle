@@ -19,7 +19,7 @@ description: 1024 程序员节送 1500G 架构师视频，够不够
 ## 视频目录
 
 - Activiti 6.0工作流引擎深度解析与实战
-https://pan.baidu.com/s/1JVSevonNugvDCu0vcmXSdw
+https://pan.baidu.com/s/1PHbvagiIW8IkrH2JYvSxFg 
 
 - Docker Kubernetes 微服务容器化实战
 https://pan.baidu.com/s/169fAiXwnRfExh0XdJdGaww 
