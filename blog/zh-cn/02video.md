@@ -19,8 +19,7 @@ description: 1024 程序员节送 1500G 架构师视频，够不够
 ## 面试资料
 
 - 2018 年一共568页 最Java全面试资料
-
-链接：https://pan.baidu.com/s/1RJJgHZwciV-6xx6njXiuJQ 
+https://pan.baidu.com/s/1RJJgHZwciV-6xx6njXiuJQ 
 
 提取码：povn 
 
