@@ -17,7 +17,7 @@ export default {
         postsTitle: '所有文章',
         list: [
             {
-                title: '把网盘视频链接发给站长微信',
+                title: '回复 1024 送 4000G 架构师视频',
                 author: '搜云库技术团队',
                 dateStr: '2018-10-25',
                 desc: '全网最全的架构师视频',
