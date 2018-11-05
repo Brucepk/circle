@@ -27,7 +27,102 @@ https://pan.baidu.com/s/1RJJgHZwciV-6xx6njXiuJQ
 
 提取码：povn 
 
-## 视频目录
+## 视频目录02
+
+### 学习30个阶段成为互联网架构师
+
+- 01.第一阶段、Svn版本管理与代码上线架构方案
+链接：https://pan.baidu.com/s/10Y9Gc-_Ezct6wM_5IlKMGg
+
+- 02.第二阶段、实战Java高并发程序设计模式视频
+链接：https://pan.baidu.com/s/1X9IEGDRhX5W64WMtbmGlyw
+
+- 03.第三阶段、深入JVM内核—原理、诊断与优化
+链接：https://pan.baidu.com/s/1xYztGPUoapI3-ZSluUQE0Q
+
+- 04.第四阶段、RPC架构
+链接：https://pan.baidu.com/s/1tnEay4LXqtZPNiNp_WIHzA
+
+- 05.第五阶段、Git分布式版本控制系统权威指南
+链接：https://pan.baidu.com/s/1aBfCVzDh04wet735ZjL7aQ
+
+- 06.第六阶段、Redis从入门到精通、集群与应用
+链接：https://pan.baidu.com/s/1wawwVVWUp8Kd24RlLJdFlg
+
+- 07.第七阶段、Java服务器端程序设计ZeroMQ视频教程
+链接：https://pan.baidu.com/s/1ahKUYoS2OhRhX0r9Lrtckw
+
+- 08.第八阶段、Dubbo入门到精通架构高级课程
+链接：https://pan.baidu.com/s/10Qu0eoX71GyLAF-5r-0Y4Q
+
+- 09.第九阶段.互联网架构师视频教程
+链接：https://pan.baidu.com/s/1PkC4ItVUSPWMGGpTa8VjlQ
+
+- 09.第九阶段、Nginx网站架构实战（web）
+链接：https://pan.baidu.com/s/1xFiZPSW1hj01eDwA4IuxWw
+
+- 10.第十阶段、Tomcat负载均衡、调优核心应用进阶
+链接：https://pan.baidu.com/s/1xU1_O0Z_cCmkEJetKf7XSA
+
+- 11.第十一阶段、架构设计之mfs分布式文件系统实战
+链接：https://pan.baidu.com/s/130SNK6xVzvPaxRK-YABTHw
+
+- 12.第十二阶段、FastDFS 分布式文件系统集群与应用
+链接：https://pan.baidu.com/s/14pWy4_pOKzdPrc-p7ebFvA
+
+- 13.第十三阶段、企业级keepalived高可用实战与Nginx负载均衡视频教程
+链接：https://pan.baidu.com/s/14sx3YiZeezT7PliT-9eqpQ
+
+- 14.第十四阶段、实战ActiveMQ集群与应用
+链接：https://pan.baidu.com/s/1d2PG7qZzryNXhnxhaSIo9Q
+
+- 15.第十五阶段、MySQL数据库高可用实战
+链接：https://pan.baidu.com/s/1OKkYbi23MQlIkIAnPxQGNA
+
+- 16.第十六阶段、前端页面调优squid代理与缓存实战
+链接：https://pan.baidu.com/s/1CZOdgLwNmjYH2RV6fXW1Cw
+
+- 17.第十七阶段、Storm流计算从入门到精通、实战高并发策略、批处理事务吖
+链接：https://pan.baidu.com/s/10LG6vu9_4fxNngFfl-9dTA
+
+- 18.第十八阶段、Mycat分布式架构之Mycat入门到精通
+链接：https://pan.baidu.com/s/1LzMrbvYBhp0O89Wux6hi7g
+
+- 19.第十九阶段、高级架构师日志平台之ELKStack实践
+链接：https://pan.baidu.com/s/1F_Co3ZJEco2tegnxmH3mHQ
+
+- 20.第二十阶段、大型分布式系统案例实战
+链接：https://pan.baidu.com/s/113vDfGvMAJPVUNo4H1iSqA
+
+- 21.第二十一阶段、Zookeeper从入门到精通、实战经典案例
+链接：https://pan.baidu.com/s/1-Xlg_Je1MAvKOVQw1gnMYw
+
+- 22.第二十二阶段、高可用可扩展网站技术实践
+链接：https://pan.baidu.com/s/1-qZ1U09GTqoZ3Hwj0HiH0A
+
+- 23.第二十三阶段、Java大数据高并发系统架构实战方案课程
+链接：https://pan.baidu.com/s/1fMcQpyQ2K9oDOKed-MTCbA
+
+- 24.第二十四阶段、高并发下的数据库设计
+链接：https://pan.baidu.com/s/1y5sxl-sL2FzTZbaCLAdZ3w
+
+- 25.第二十五阶段、实战大型电商O2O在线交易系统架构及数据库设计
+链接：https://pan.baidu.com/s/16QnX6pJv8cqO1Brn36unlg
+
+- 26.第二十六阶段、微服务架构的分布式事务解决方案
+链接：https://pan.baidu.com/s/1ZwlOMkkfcphZIi0k9msx6g
+
+- 28.第二十八阶段、百度、阿里、腾讯是如何承载PB级别大数据的
+链接：https://pan.baidu.com/s/158ZX-zgMkbindp2vvM8gwA
+
+- 29.第二十九阶段、海量数据库架构设计
+链接：https://pan.baidu.com/s/1LKSwH2Z5RzB_6tLDsvZvkA
+
+- 30.第三十阶段、JD架构设计大数据分析与创新应用
+链接：https://pan.baidu.com/s/14pQrvVAFEsMU5QpbcqXVCA
+
+
+## 视频目录01
 
 - Apache 流框架 Flink 视频
 https://pan.baidu.com/s/1MqfMRfB61MKfAd-Mm0F0hw 
