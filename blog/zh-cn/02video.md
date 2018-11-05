@@ -1,10 +1,10 @@
 ---
-title: 1024 程序员节送 1500G 架构师视频，够不够
-keywords: 1024 程序员节送 1500G 架构师视频，够不够
-description: 1024 程序员节送 1500G 架构师视频，够不够
+title: 回复 1024 送 4000G 架构师视频
+keywords: 回复 1024 送 4000G 架构师视频
+description: 回复 1024 送 4000G 架构师视频
 ---
 
-## 1024 程序员节送 1500G 架构师视频，够不够
+## 回复 1024 送 4000G 架构师视频
 
 ## <span style="color: #FF0000;">视频提取码</span>
 
@@ -16,20 +16,9 @@ description: 1024 程序员节送 1500G 架构师视频，够不够
 
 [1]: https://team.souyunku.com/img/souyunku.jpg
 
-## 面试资料
-
-- <span style="color: #FF0000;">面试题：精选100份Java面试题/笔试题及答案</span>
-https://pan.baidu.com/s/1m1xZ1Gv9Hnti_nUKE57W0A 
-
-
-- 2018 年一共568页 最Java全面试资料
-https://pan.baidu.com/s/1RJJgHZwciV-6xx6njXiuJQ 
-
-提取码：povn 
-
 ## 视频目录02
 
-### 学习30个阶段成为互联网架构师
+### <span style="color: #FF0000;">学习30个阶段成为互联网架构师</span>
 
 - 01.第一阶段、Svn版本管理与代码上线架构方案
 链接：https://pan.baidu.com/s/10Y9Gc-_Ezct6wM_5IlKMGg
@@ -121,6 +110,16 @@ https://pan.baidu.com/s/1RJJgHZwciV-6xx6njXiuJQ
 - 30.第三十阶段、JD架构设计大数据分析与创新应用
 链接：https://pan.baidu.com/s/14pQrvVAFEsMU5QpbcqXVCA
 
+## 面试资料
+
+- <span style="color: #FF0000;">面试题：精选100份Java面试题/笔试题及答案</span>
+https://pan.baidu.com/s/1m1xZ1Gv9Hnti_nUKE57W0A 
+
+
+- 2018 年一共568页 最Java全面试资料
+https://pan.baidu.com/s/1RJJgHZwciV-6xx6njXiuJQ 
+
+提取码：povn 
 
 ## 视频目录01
 
