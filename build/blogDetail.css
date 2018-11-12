@@ -3074,6 +3074,26 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
   text-align: right; }
 
 .blog-detail-page .blog-content {
-  padding: 1px 1%;
+  padding: 2px 2%;
   margin: 66px auto 0;
-  max-width: 735px; }
+  max-width: 1200px; }
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 0em;
+  list-style-type: none; }
+
+.markdown-body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  line-height: 1.5;
+  color: #24292e;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 12px;
+  line-height: 1.5;
+  word-wrap: break-word; }
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.9em;
+  border-bottom: 1px solid #eaecef; }
