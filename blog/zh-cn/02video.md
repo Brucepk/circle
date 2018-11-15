@@ -16,6 +16,96 @@ description: 回复 1024 送 4000G 架构师视频
 
 [1]: https://team.souyunku.com/img/souyunku.jpg
 
+## 【最新】百度、腾讯、阿里、谷歌 面试题视频讲解合集
+
+### <span style="color: #FF0000;">以下目录全为视频讲解，没有任何套路，就是免费送</span>
+
+- 主目录：[https://pan.baidu.com/s/1xsrcLO2XdKr2YL6zHoSuNQ](https://pan.baidu.com/s/1xsrcLO2XdKr2YL6zHoSuNQ)
+- 【视频系列 84 讲】Java面试题全集
+- 【视频系列 100讲】500强HR带你完美面试
+- 主目录：https://pan.baidu.com/s/1xsrcLO2XdKr2YL6zHoSuNQ
+- 【BTA】Aop的底层实现原理，动态代理的动如何体现
+- 【BTA】JavaWEB开发中解决跨域问题的n种方案
+- 【BTA】JAVA并发编程之多线程同步业务场景与解决方案
+- 【BTA】Java校招面试 Google面试官亲授
+- 【BTA】MySQLl中Binlog的底层原理分析
+- 【BTA】Nosql Redis Jedis常用命令
+- 【BTA】RPC底层通讯原理之Netty线程模型源码分析
+- 【BTA】SpringMvc深入理解源码分析
+- 【BTA】从数据库底层来分析事务的提交与回滚全过程
+- 【BTA】大公司面试题 字符串
+- 【BTA】大型公司面试必答之数据结构与算法精讲
+- 【BTA】电话面试与大厂面试真题
+- 【BTA】多线程并发编程的总结和梳理
+- 【BTA】分布式框架Zookeeper之服务注册与订阅
+- 【BTA】分布式锁的实现原理
+- 【BTA】分库分表之后分布式下如何保证ID全局唯一性
+- 【BTA】高性能必学之Mysql主从架构实践
+- 【BTA】高性能网络编程必备技能之IO与NIO阻塞分析
+- 主目录：https://pan.baidu.com/s/1xsrcLO2XdKr2YL6zHoSuNQ
+- 【BTA】视频讲解 大数据
+- 【BTA】视频讲解 动态规划
+- 【BTA】视频讲解 队列和栈
+- 【BTA】视频讲解 二叉树
+- 【BTA】视频讲解 二分搜索
+- 【BTA】视频讲解 概率
+- 【BTA】视频讲解 链表
+- 【BTA】视频讲解 排列与组合
+- 【BTA】视频讲解 排序
+- 【BTA】视频讲解 位运算
+- 【BTA】视频讲解 智力题
+- 主目录：https://pan.baidu.com/s/1xsrcLO2XdKr2YL6zHoSuNQ
+- 【BTA】互联网系统垂直架构之Session解决方案
+- 【BTA】Spring事物不能回滚的深层次原因
+- 【BTA】剖析一道不简单的面试题
+- 【BTA】如何控制多线程执行顺序
+- 【BTA】深入底层lock接口和synchronized的区别和优势
+- 【BTA】深入底层研究volatile和synchronized的区别
+- 【BTA】算法通关面试40讲
+- 【BTA】锁、分布式锁、无锁实战全局性ID
+- 【BTA】探索JVM底层奥秘ClassLoader源码分析与案例
+- 【BTA】图解阻塞io和非阻塞io及多路复用机制
+- 【BTA】微服务架构之Spring Cloud Eureka 场景分析与实战
+- 【BTA】技术人成长之路（上）
+- 【BTA】技术人成长之路（下）
+- 【BTA】要不要跳槽，怎么成长
+- 主目录：https://pan.baidu.com/s/1xsrcLO2XdKr2YL6zHoSuNQ
+- 【Google】面试官亲授 project
+- 【Google】面试官亲授 第10章谷歌在线笔试题解
+- 【Google】面试官亲授 第11章面试的软技巧和总结
+- 【Google】面试官亲授 第1章课程引言
+- 【Google】面试官亲授 第2章操作系统
+- 【Google】面试官亲授 第3章网络
+- 【Google】面试官亲授 第4章数据库
+- 【Google】面试官亲授 第5章程序设计语言基础
+- 【Google】面试官亲授 第6章编码技巧
+- 【Google】面试官亲授 第7章面向对象
+- 【Google】面试官亲授 第8章设计模式
+- 【Google】面试官亲授 第9章高级知识点
+- 主目录：https://pan.baidu.com/s/1xsrcLO2XdKr2YL6zHoSuNQ
+- 【面试题】【Google】校园招聘笔试面试题合集
+- 【面试题】【阿里巴巴】校园招聘笔试面试题合集
+- 【面试题】【百度】校园招聘笔试面试题合集
+- 【面试题】【华为】校园招聘笔试面试题合集
+- 【面试题】【美团网】校园招聘笔试面试题合集
+- 【面试题】【奇虎360】校园招聘笔试面试题合集
+- 【面试题】【去哪儿网】校园招聘笔试面试题合集
+- 【面试题】【腾讯】校园招聘笔试面试题合集
+- 【面试题】【网易、搜狐、新浪】校园招聘笔试面试题合集
+- 【面试题】【微软】校园招聘笔试面试题合集
+- 【面试题】【中兴】校园招聘笔试面试题合集
+- 【前端面试】前端JavaScript面试技巧全套
+- 【前端面试】前端跳槽面试必备技巧
+- 主目录：https://pan.baidu.com/s/1xsrcLO2XdKr2YL6zHoSuNQ
+
+## 面试资料
+
+- <span style="color: #FF0000;">面试题：精选100份Java面试题/笔试题及答案</span>
+https://pan.baidu.com/s/1m1xZ1Gv9Hnti_nUKE57W0A 
+
+- 2018 年一共568页 最Java全面试资料
+https://pan.baidu.com/s/1RJJgHZwciV-6xx6njXiuJQ 提取码：povn 
+
 ## 视频目录02
 
 ### <span style="color: #FF0000;">学习30个阶段成为互联网架构师</span>
@@ -109,17 +199,6 @@ description: 回复 1024 送 4000G 架构师视频
 
 - 30.第三十阶段、JD架构设计大数据分析与创新应用
 链接：https://pan.baidu.com/s/14pQrvVAFEsMU5QpbcqXVCA
-
-## 面试资料
-
-- <span style="color: #FF0000;">面试题：精选100份Java面试题/笔试题及答案</span>
-https://pan.baidu.com/s/1m1xZ1Gv9Hnti_nUKE57W0A 
-
-
-- 2018 年一共568页 最Java全面试资料
-https://pan.baidu.com/s/1RJJgHZwciV-6xx6njXiuJQ 
-
-提取码：povn 
 
 ## 视频目录01
 
