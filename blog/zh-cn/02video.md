@@ -14,7 +14,121 @@ description: 回复 1024 送 4000G 架构师视频
 
 ![][1]
 
-[1]: https://team.souyunku.com/img/souyunku.jpg
+[1]: https://team.souyunku.com/img/souyunku.png
+
+##  <span style="color: #FF0000;">架构师视频 往下翻出，在文章下半部分</span>
+
+## 【2018-11-18 最新】2018整理的前端学习视频，图书，等资源
+
+### <span style="color: #FF0000;">以下目录全为视频讲解，没有任何套路，就是免费送</span>
+
+#### 前端视频40套
+
+
+- 【AngularJS】4.0从入门到实战 打造在线竞拍网站
+- 【AngularJS】Laravel 全栈开发知乎
+- 【AngularJS】拉勾网
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 【JavaScript】高级视频教程
+- 【JavaScript】部分 48集
+- 【Javascript】高级视频教程
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 【jQuery】6小时用实现小应用
+- 【Nodejs】七天搞定微信公众号
+- 【NodeJs】实战+mongodb+聊天系统
+- 【Nodejs】项目的线上服务器部署与发布
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 【React】TypeScript + Redux 扫盲实战简单天气APP
+- 【React】+react native 视频教程
+- 【React】16.4 开发简书项目 从零基础入门到实战
+- 【React】Native 贯穿全栈开发App
+- 【React】Native快速开发 厕所在哪App LBS定位 框架封装
+- 【React】Native视频教程
+- 【React】Native视频教程-项目实战
+- 【React】React-router4.x+Ant Design+Flux视频教程-
+- 【React】redux 教程
+- 【React】高级实战 - 打造大众点评 WebApp
+- 【React】极客时间 从入门到精通
+- 【React】架构课程全套视频
+- 【React】全家桶+AntD 共享单车后台管理系统开发
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 【ThinkPHP】5基础视频教程
+- 【ThinkPHP】5实战开发社区
+- 【ThinkPHP】传智播客
+- 【ThinkPHP】高级实战全套高清视频教程
+- 【ThinkPHP】5.0+小程序商城构建全栈应用
+- 【ThinkPHP】前端后台开发整站
+- 【ThinkPHP】童老师第三季
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 【Vue】+Django REST framework 打造生鲜电商项目
+- 【Vue】+node.js+MongoDB全栈打造商城（完整版）
+- 【Vue】2.0带你入门及案例开发
+- 【Vue】零基础
+- 【Vue】高仿饿了么外卖App 前端框架Vue.js 1.0升级2.0
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 【珠峰】React
+- 【珠峰】nodejs深入浅出
+- 【珠峰】web前端 14期
+- 【珠峰】最新React架构课程全套视频
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+
+#### 前端电子书46本
+
+- JavaScript DOM编程艺术 第2版.pdf
+- 犀利开发 jQuery内核详解与实践.pdf
+- 深入浅出JavaScript.pdf
+- 深入浅出ExtJS(第2版).pdf
+- 精通XHTML程序设计高级编程.pdf
+- 精通JavaScript.pdf
+- 精通CSS：高级Web标准解决方案.pdf
+- 高性能网站建设指南.pdf
+- 锋利的jQuery.pdf
+- 大巧不工-WEB前端设计修炼之道.pdf
+- 变幻之美Div+CSS网页布局揭秘(案例实战篇).pdf
+- 编写高质量代码--Web前端开发修炼之道.pdf
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- Web容量规划的艺术.pdf
+- Web标准之道.pdf
+- SEO必知必会51技.pdf
+- ppk谈JavaScript.zip
+- ppk谈JavaScript.pdf
+- Maintainable.JavaScript.pdf
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- jQuery实战.pdf
+- jQuery权威指南.pdf
+- jQuery基础教程.pdf
+- jQuery攻略.pdf
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- JavaScript语言精粹.pdf
+- JavaScript异步编程.pdf
+- JavaScript王者归来.pdf
+- JavaScript设计模式.pdf
+- JavaScript入门经典(第3版).pdf
+- javascript权威指南第六版.pdf
+- JavaScript权威指南(第5版)中文版(上).pdf
+- JavaScript框架高级编程 应用.pdf
+- JavaScript开发技术大全.pdf
+- JavaScript捷径教程.pdf
+- JavaScript高级程序设计.pdf
+- JavaScript从入门到精通.pdf
+- JavaScript宝典(第6版).pdf
+- javascriptDOM编程艺术.pdf
+- JavaScriptDOM高级程序设计.pdf
+- JavaScriptDOM编程艺术.pdf
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- HTML5权威指南.pdf
+- HTML5高级程序设计.pdf
+- DynamicHTML权威指南.pdf
+- CSS商业网站布局之道.pdf
+- CSS那些事儿：掌握网页样式与CSS布局核心技术.pdf
+- CSS那些事儿：掌握网页样式与CSS布局核心技术(1).pdf
+- CSS禅意花园.pdf
+- CSS Web设计高级教程 第2版.pdf
+- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+
+## 【最新】百度、腾讯、阿里、谷歌 面试题视频讲解合集
+
+### <span style="color: #FF0000;">以下目录全为视频讲解，没有任何套路，就是免费送</span>
 
 ## 【最新】百度、腾讯、阿里、谷歌 面试题视频讲解合集
 
