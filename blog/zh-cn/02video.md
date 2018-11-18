@@ -16,7 +16,7 @@ description: 回复 1024 送 4000G 架构师视频
 
 [1]: https://team.souyunku.com/img/souyunku.png
 
-##  <span style="color: #FF0000;">架构师视频 往下翻出，在文章下半部分</span>
+##  <span style="color: #FF0000;">注意：架构师视频，在文章下半部分</span>
 
 ## 【2018-11-18 最新】2018整理的前端学习视频，图书，等资源
 
