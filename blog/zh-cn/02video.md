@@ -16,9 +16,9 @@ description: 回复 1024 送 4000G 架构师视频
 
 [1]: https://team.souyunku.com/img/souyunku.png
 
-##  <span style="color: #FF0000;">注意：架构师视频，在文章下半部分</span>
+## <span style="color: #FF0000;">注意：架构师视频，在文章下半部分</span>
 
-## 【2018-11-18 最新】2018整理的前端学习视频，图书，等资源
+## 【2018-11-18】最新整理的前端学习视频，图书，等资源
 
 ### <span style="color: #FF0000;">以下目录全为视频讲解，没有任何套路，就是免费送</span>
 
@@ -28,16 +28,16 @@ description: 回复 1024 送 4000G 架构师视频
 - 【AngularJS】4.0从入门到实战 打造在线竞拍网站
 - 【AngularJS】Laravel 全栈开发知乎
 - 【AngularJS】拉勾网
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 - 【JavaScript】高级视频教程
 - 【JavaScript】部分 48集
 - 【Javascript】高级视频教程
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 - 【jQuery】6小时用实现小应用
 - 【Nodejs】七天搞定微信公众号
 - 【NodeJs】实战+mongodb+聊天系统
 - 【Nodejs】项目的线上服务器部署与发布
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 - 【React】TypeScript + Redux 扫盲实战简单天气APP
 - 【React】+react native 视频教程
 - 【React】16.4 开发简书项目 从零基础入门到实战
@@ -51,7 +51,7 @@ description: 回复 1024 送 4000G 架构师视频
 - 【React】极客时间 从入门到精通
 - 【React】架构课程全套视频
 - 【React】全家桶+AntD 共享单车后台管理系统开发
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 - 【ThinkPHP】5基础视频教程
 - 【ThinkPHP】5实战开发社区
 - 【ThinkPHP】传智播客
@@ -59,13 +59,13 @@ description: 回复 1024 送 4000G 架构师视频
 - 【ThinkPHP】5.0+小程序商城构建全栈应用
 - 【ThinkPHP】前端后台开发整站
 - 【ThinkPHP】童老师第三季
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 - 【Vue】+Django REST framework 打造生鲜电商项目
 - 【Vue】+node.js+MongoDB全栈打造商城（完整版）
 - 【Vue】2.0带你入门及案例开发
 - 【Vue】零基础
 - 【Vue】高仿饿了么外卖App 前端框架Vue.js 1.0升级2.0
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 - 【珠峰】React
 - 【珠峰】nodejs深入浅出
 - 【珠峰】web前端 14期
@@ -86,19 +86,19 @@ description: 回复 1024 送 4000G 架构师视频
 - 大巧不工-WEB前端设计修炼之道.pdf
 - 变幻之美Div+CSS网页布局揭秘(案例实战篇).pdf
 - 编写高质量代码--Web前端开发修炼之道.pdf
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 - Web容量规划的艺术.pdf
 - Web标准之道.pdf
 - SEO必知必会51技.pdf
 - ppk谈JavaScript.zip
 - ppk谈JavaScript.pdf
 - Maintainable.JavaScript.pdf
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 - jQuery实战.pdf
 - jQuery权威指南.pdf
 - jQuery基础教程.pdf
 - jQuery攻略.pdf
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 - JavaScript语言精粹.pdf
 - JavaScript异步编程.pdf
 - JavaScript王者归来.pdf
@@ -115,7 +115,7 @@ description: 回复 1024 送 4000G 架构师视频
 - javascriptDOM编程艺术.pdf
 - JavaScriptDOM高级程序设计.pdf
 - JavaScriptDOM编程艺术.pdf
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 - HTML5权威指南.pdf
 - HTML5高级程序设计.pdf
 - DynamicHTML权威指南.pdf
@@ -124,7 +124,7 @@ description: 回复 1024 送 4000G 架构师视频
 - CSS那些事儿：掌握网页样式与CSS布局核心技术(1).pdf
 - CSS禅意花园.pdf
 - CSS Web设计高级教程 第2版.pdf
-- 视频主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
+- 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 
 ## 【最新】百度、腾讯、阿里、谷歌 面试题视频讲解合集
 
