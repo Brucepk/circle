@@ -126,11 +126,8 @@ description: 回复 1024 送 4000G 架构师视频
 - CSS Web设计高级教程 第2版.pdf
 - 主目录：https://pan.baidu.com/s/14W5klXhCUvSUjVWzecJfAA 
 
-## 【最新】百度、腾讯、阿里、谷歌 面试题视频讲解合集
 
-### <span style="color: #FF0000;">以下目录全为视频讲解，没有任何套路，就是免费送</span>
-
-## 【最新】百度、腾讯、阿里、谷歌 面试题视频讲解合集
+## <span style="color: #FF0000;">【2018-11-15】百度、腾讯、阿里、谷歌 面试题视频讲解合集</span>
 
 ### <span style="color: #FF0000;">以下目录全为视频讲解，没有任何套路，就是免费送</span>
 
@@ -211,18 +208,14 @@ description: 回复 1024 送 4000G 架构师视频
 - 【前端面试】前端JavaScript面试技巧全套
 - 【前端面试】前端跳槽面试必备技巧
 - 主目录：https://pan.baidu.com/s/1xsrcLO2XdKr2YL6zHoSuNQ
-
-## 面试资料
-
 - <span style="color: #FF0000;">面试题：精选100份Java面试题/笔试题及答案</span>
 https://pan.baidu.com/s/1m1xZ1Gv9Hnti_nUKE57W0A 
 
 - 2018 年一共568页 最Java全面试资料
 https://pan.baidu.com/s/1RJJgHZwciV-6xx6njXiuJQ 提取码：povn 
 
-## 视频目录02
 
-### <span style="color: #FF0000;">学习30个阶段成为互联网架构师</span>
+## <span style="color: #FF0000;">学习30个阶段成为互联网架构师</span>
 
 - 01.第一阶段、Svn版本管理与代码上线架构方案
 链接：https://pan.baidu.com/s/10Y9Gc-_Ezct6wM_5IlKMGg
@@ -314,7 +307,7 @@ https://pan.baidu.com/s/1RJJgHZwciV-6xx6njXiuJQ 提取码：povn
 - 30.第三十阶段、JD架构设计大数据分析与创新应用
 链接：https://pan.baidu.com/s/14pQrvVAFEsMU5QpbcqXVCA
 
-## 视频目录01
+## <span style="color: #FF0000;">1500G互联网架构师视频</span>
 
 - Apache 流框架 Flink 视频
 https://pan.baidu.com/s/1MqfMRfB61MKfAd-Mm0F0hw 
