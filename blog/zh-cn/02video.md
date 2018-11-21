@@ -33,7 +33,7 @@ description: 回复 1024 送 4000G 架构师视频
 # [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/04.html)
 
 
-## <span style="color: #FF0000;">2000G互联网架构师视频</span>
+## <span style="color: #FF0000;">以下是 2000G 互联网架构师视频</span>
 
 - Apache 流框架 Flink 视频
 https://pan.baidu.com/s/1MqfMRfB61MKfAd-Mm0F0hw 
