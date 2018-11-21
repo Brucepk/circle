@@ -24,11 +24,32 @@ export default {
                 link: '/zh-cn/blog/02video.html',
             },
             {
-                title: '2018-11-21 最新71讲大型互联架构师视频',
+                title: '2018最新 71讲大型互联架构师视频',
                 author: '搜云库技术团队',
                 dateStr: '2018-11-21',
                 desc: '全网最全的架构师视频',
                 link: '/zh-cn/blog/2018/01.html',
+            },
+            {
+                title: '2018最新 前端40套学习视频，图书，等资源',
+                author: '搜云库技术团队',
+                dateStr: '2018-11-21',
+                desc: '全网最全的架构师视频',
+                link: '/zh-cn/blog/2018/02.html',
+            },
+            {
+                title: '2018最新 百度、腾讯、阿里、谷歌 面试题视频讲解合集',
+                author: '搜云库技术团队',
+                dateStr: '2018-11-21',
+                desc: '全网最全的架构师视频',
+                link: '/zh-cn/blog/2018/03.html',
+            },
+            {
+                title: '2018最新 学习30个阶段成为互联网架构师视频',
+                author: '搜云库技术团队',
+                dateStr: '2018-11-21',
+                desc: '全网最全的架构师视频',
+                link: '/zh-cn/blog/2018/04.html',
             },
             {
                 title: '中国大陆知识共享协议',
